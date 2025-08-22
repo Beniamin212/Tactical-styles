@@ -47,14 +47,23 @@ StatsBomb open data for the **2015/16 season**:
 ### Downolad these libraries :
 
 -pip install pandas
+
 -pip install numpy
+
 -pip install socceraction
+
 -pip install scikit-learn
+
 -pip install joblib
+
 -pip install tqdm
+
 -pip install plotly
+
 -pip install matplotlib
+
 -pip install seaborn
+
 -pip install xgboost
 
 
