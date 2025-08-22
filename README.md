@@ -66,6 +66,10 @@ StatsBomb open data for the **2015/16 season**:
 
 -pip install xgboost
 
+### You also need to use StatsBomb data (in my case i downloaded it locally , but you can use API aswell (API not provided in my codes))
+
+Link to StatsBomb data : https://github.com/statsbomb/open-data
+
 
 
 
